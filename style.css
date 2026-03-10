@@ -26,7 +26,10 @@ transition:0.3s;
 .nav-link:hover{
 color:#4da3ff !important;
 }
-
+.navbar-brand img{
+    width:100px;
+  height:auto
+}
 
 
 
