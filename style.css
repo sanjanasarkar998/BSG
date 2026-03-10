@@ -10,11 +10,16 @@ font-family:sans-serif;
 }
 
 
-
 .custom-nav{
 position:absolute;
 width:100%;
 z-index:10;
+}
+.container {
+  width: 100%;
+  max-width: 1424px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .nav-link{
